@@ -23,7 +23,7 @@ If you'd like to build your own, here is the YouTube video [video](https://youtu
 
 ## 🔍 Demo
 
-[View it live here](https://www.gpsresume.com/)
+Demo: coming soon
 
 ## 📝 Pre-requisites
 
